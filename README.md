@@ -3,6 +3,7 @@
 ## First
   * You need learning React Web.
   * Here is the tutorial from Facebook Official: https://facebook.github.io/react/docs/hello-world.html
+  * It's useful tool when learning React: [React-create-app](https://github.com/facebookincubator/create-react-app)
   * And then, when you know how to use JSX and State/Props/LifeCycle, jump to the React-Native.
   * In advanced, you should learn Redux. It's very important when you use with State/Props/LifeCycle
   * [Redux link](https://leanpub.com/redux-book)
